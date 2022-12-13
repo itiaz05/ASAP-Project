@@ -6,18 +6,18 @@ All passwords: `4tOmH3aRTm0Th3r`
 
 * django admin user: `asapadmin`
 * Chair
-  * `nir_keidar`
+  * `nir`
 * Admin
-  * `nitzan_eilon`
-  * `aviram_dayan`
+  * `nitzan`
+  * `aviram`
 * Department 1
-  * `rani_blair` - dept-head
-  * `yael_shenkar` - member
-  * `shemuel_elbaz` - member
+  * `rani` - dept-head
+  * `yael` - member
+  * `shemuel` - member
 * Department 2
-  * `sharon_hadad` - dept-head
-  * `gila_benisti` - member
-  * `reut_magidish` - member
+  * `sharon` - dept-head
+  * `gila` - member
+  * `reut` - member
 
 ### DB
 #### Dump data
